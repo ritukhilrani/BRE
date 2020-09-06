@@ -1,8 +1,9 @@
 ﻿namespace BusinessRulesEngine
 {
     using System;
+    using OrderProcessingHandler.Membership_Handler;
 
-    public class Membership
+    public class Membership: IMembership
     {
         private static string _successfulMessage;
         private readonly ISendEmail _sendEmail;
