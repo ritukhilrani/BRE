@@ -17,7 +17,7 @@
         {
             switch (input.ToUpper())
             {
-                case "membership new":
+                case "MEMBERSHIP NEW":
                     _membership.ActivateMembership(input);
                     break;
                 default:
