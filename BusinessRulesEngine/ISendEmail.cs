@@ -2,6 +2,6 @@
 {
     public interface ISendEmail
     {
-        void SendEmail(string isAny);
+        void SendEmailToMember(string membershipType);
     }
 }

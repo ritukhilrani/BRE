@@ -8,3 +8,4 @@ C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine\obj\Debug\netcoreapp3.1\B
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.AssemblyInfo.cs
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.dll
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.pdb
+C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.csprojAssemblyReference.cache
