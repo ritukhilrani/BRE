@@ -12,5 +12,13 @@
             var packageSlip = PackageSlip.GeneratePackagingSlip(inputOrder);
             packageSlip.Should().Be("Packaging slip successfully generated for shipping");
         }
+
+        [Fact]
+        public void When_book_is_received_Generate_duplicatePackagingSlip_Is_Successful()
+        {
+            const string inputOrder = "book";
+            var packageSlip = PackageSlip.GenerateDuplicatePackagingSlip(inputOrder);
+            packageSlip.Should().Be("Packaging slip successfully generated for royalty department");
+        }
     }
 }

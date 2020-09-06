@@ -99,3 +99,5 @@ C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\bin\Debug\netco
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\bin\Debug\netcoreapp3.1\BusinessRulesEngine.pdb
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UnitTests.dll
 C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UnitTests.pdb
+C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ritu.khilrani\Desktop\BRE\BusinessRulesEngine.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
